@@ -1,6 +1,6 @@
 {
   "name": "com.vrc-avatar-assistant.editor",
-  "version": "1.1.0-alpha.2",
+  "version": "1.2.0-alpha.1",
   "displayName": "VRC Avatar Assistant History",
   "description": "Local Editor history, task coordination and avatar checks.",
   "unity": "2022.3"
