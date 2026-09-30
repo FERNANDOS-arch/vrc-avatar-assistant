@@ -1,0 +1,5 @@
+{
+  "name": "VrcAvatarAssistant.Editor",
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}
