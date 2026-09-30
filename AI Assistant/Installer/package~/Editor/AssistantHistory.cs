@@ -38,7 +38,7 @@ namespace VrcAvatarAssistant
     [InitializeOnLoad]
     public static class AssistantHistory
     {
-        public const string Version = "1.1-alpha / editor 1.1.0-alpha.2";
+        public const string Version = "1.2-alpha / editor 1.2.0-alpha.1";
         public static readonly string ProjectRoot = Directory.GetParent(Application.dataPath).FullName;
         public static readonly string Root = Path.Combine(ProjectRoot, "AI Assistant");
         public static readonly string HistoryRoot = Path.Combine(Root, "History");
