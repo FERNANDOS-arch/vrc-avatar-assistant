@@ -28,3 +28,10 @@
 ключи API, исполняемый установщик и собственный механизм блокировки на стороне
 Unity. Подключение, проверка границ самостоятельной работы и тесты на аватаре выполняются
 пользователем в целевом окружении.
+
+## API модуля истории
+- https://docs.unity3d.com/2022.3/Documentation/ScriptReference/Undo-postprocessModifications.html
+- https://docs.unity.cn/2022.3/Documentation/ScriptReference/ObjectChangeEvents-changesPublished.html
+- https://docs.unity3d.com/2022.3/Documentation/ScriptReference/AssetPostprocessor.OnPostprocessAllAssets.html
+- https://docs.unity3d.com/2022.3/Documentation/Manual/AssemblyDefinitionFileFormat.html
+Ссылки подтверждают назначение API, не заменяют компиляцию и интеграционную приёмку.
