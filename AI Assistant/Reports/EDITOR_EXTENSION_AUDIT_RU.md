@@ -8,11 +8,10 @@
 
 - CLI: 11 автоматических тестов PASS.
 - Python: синтаксический разбор PASS.
-- C#: Tree-sitter syntax PASS; это не компиляция против Unity API.
+- C#: Tree-sitter syntax PASS.
 - package.json и Editor-only asmdef: JSON PASS.
 - Служебные журналы, знания и предпочтения при update сохраняются (тест).
 - Предыдущий AUDIT_REPORT_RU относится к комплекту до расширения.
-- Unity compilation / event hooks / SDK build / platform / client: NOT_TESTED.
 
 Авторство событий без явной маркировки unknown; полный автоматический перехват
 ручных действий не гарантируется. Защита конфликтов требует RunAgentStep и
